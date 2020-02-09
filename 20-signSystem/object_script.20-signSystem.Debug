@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\personalinformation.o
+./debug\login.o
+./debug\enrol.o
+./debug\qrc_bg.o
+./debug\qrc_bgc.o
+./debug\qrc_bg3.o
+./debug\moc_widget.o
+./debug\moc_personalinformation.o
+./debug\moc_login.o
+./debug\moc_enrol.o
+);

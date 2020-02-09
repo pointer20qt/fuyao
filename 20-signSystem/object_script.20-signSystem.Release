@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\personalinformation.o
+./release\login.o
+./release\enrol.o
+./release\qrc_bg.o
+./release\qrc_bgc.o
+./release\qrc_bg3.o
+./release\moc_widget.o
+./release\moc_personalinformation.o
+./release\moc_login.o
+./release\moc_enrol.o
+);
